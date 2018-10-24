@@ -1,0 +1,9 @@
+#include<stdio.h>
+#include<stdlib.h>
+#include<stdint.h>
+#include<unistd.h>
+#include<fcntl.h>
+#include"cmntdfs.h"
+#include"mp3recoverydef.h"
+#include"mp3recoveryproto.h"
+#include"mp3recoveryglob.h"
